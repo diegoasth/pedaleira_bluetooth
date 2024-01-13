@@ -1,0 +1,6 @@
+# bibliotecas usadas
+ArduinoLib_MAX17043-master\
+ESP32_BLE_Keyboard\
+ESP32_BLE_Mouse\
+ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays\
+NimBLE-Arduino
